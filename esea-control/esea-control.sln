@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "esea-control", "esea-control\esea-control.csproj", "{CD02CCEB-777B-4A95-A229-E43842159C71}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD02CCEB-777B-4A95-A229-E43842159C71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD02CCEB-777B-4A95-A229-E43842159C71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD02CCEB-777B-4A95-A229-E43842159C71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD02CCEB-777B-4A95-A229-E43842159C71}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8FB8644D-0710-4310-8562-651322E75B9C}
+	EndGlobalSection
+EndGlobal
